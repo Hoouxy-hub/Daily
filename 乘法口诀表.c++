@@ -1,3 +1,4 @@
+乘法口诀for语句运用
 #include<stdio.h>
 int main()
 {
