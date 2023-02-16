@@ -1,0 +1,10 @@
+表达式1 ? 表达式2 : 表达式3; 
+#include <stdio.h>
+int main()
+{
+	double money = 12.0;
+	double cost = 11.5;
+	printf("小编能不能打车回家呢：");
+	printf("%s\n", money >= cost ? "yes" : "no");
+	return 0;
+}
